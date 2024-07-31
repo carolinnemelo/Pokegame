@@ -1,5 +1,8 @@
 import Card from "../Card";
 
+
+
+
 function Pokedex({ pokemons, isWinner }) {
 	return (
 		<div>
